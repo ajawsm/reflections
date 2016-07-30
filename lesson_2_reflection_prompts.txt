@@ -5,6 +5,9 @@ It creates a hidden folder for commits. To initiate a place to save all future c
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is like limbo. It is the area that allows you to transfer changes
+between the repository and the working directory.
+
 The staging area allows you to manage the file commits in blocks, chunks, or
 individually, depending on their dependencies and commit them simultaneously,
 once your updates are completed.
