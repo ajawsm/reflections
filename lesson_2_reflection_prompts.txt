@@ -25,6 +25,10 @@ experimenting with big new features and expansions - like a testing mode.
 
 How do the diagrams help you visualize the branch structure?
 
+They create a visual reference to help understand what commits a branch
+can and cannot reach and how to link commits to branches, keeping structural
+integrity among the file chronology.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
