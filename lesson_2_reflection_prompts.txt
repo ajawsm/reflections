@@ -14,7 +14,8 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 You can manage changes within the staging area before pushing them to the
-working directory.
+working directory. You can select which file in the staging area you would like
+to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
