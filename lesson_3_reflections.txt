@@ -7,3 +7,11 @@ Why might you want to always pull changes manually rather than having Git automa
 If multiple people are working on the file and you've been working for a while,
 your changes and version may not mesh with changes from other users, causing issues
 when it automatically merges your code while you are working on your local machine.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are copies of repositories made on GitHub's native servers, clones are made between GitHub
+and the local machine, branches are different lineages of alternative code that can be created
+and merged. You would use clone when trying to pull something from GitHub to your native machine,
+fork when trying to copy a repository from another GitHub repository to your own, and branch when
+making new features for your code or experimenting so that you do not impact the master branch.
