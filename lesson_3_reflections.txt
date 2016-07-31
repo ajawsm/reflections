@@ -15,3 +15,8 @@ and the local machine, branches are different lineages of alternative code that 
 and merged. You would use clone when trying to pull something from GitHub to your native machine,
 fork when trying to copy a repository from another GitHub repository to your own, and branch when
 making new features for your code or experimenting so that you do not impact the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It limits the amount of potential conflicts you will have when pushing your changes to the
+updated repository on GitHub while collaborating.
