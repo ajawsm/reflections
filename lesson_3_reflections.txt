@@ -20,3 +20,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It limits the amount of potential conflicts you will have when pushing your changes to the
 updated repository on GitHub while collaborating.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could use Google Docs or Dropbox to manage files...or email back and forth.
+Google Docs would be easier because users can write simultaneously, but this could
+create conflicts. Dropbox would limit work ideally to one person at a time, same
+with email. There would be lots of copying and pasting...and probably bugs using these
+platforms.
