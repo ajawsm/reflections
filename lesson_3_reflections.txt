@@ -28,3 +28,9 @@ Google Docs would be easier because users can write simultaneously, but this cou
 create conflicts. Dropbox would limit work ideally to one person at a time, same
 with email. There would be lots of copying and pasting...and probably bugs using these
 platforms.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Use a separate branch when collaborating so that code can be reviewed and checked
+without interrupting other collaborators. The benefit being that changes do not throw
+bugs into master until they have been verified. 
